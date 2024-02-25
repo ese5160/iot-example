@@ -1481,6 +1481,9 @@
     <Compile Include="src\IMU\lsm6dso_reg.h">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="src\secret.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="src\SeesawDriver\Seesaw.h">
       <SubType>compile</SubType>
     </Compile>
